@@ -11,7 +11,7 @@
   <packaging>jar</packaging>
   <groupId>org.webjars</groupId>
   <artifactId>json3</artifactId>
-  <version>3.3.2-SNAPSHOT</version>
+  <version>3.3.2</version>
   <name>JSON 3</name>
   <description>WebJar for JSON 3</description>
   <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
     <url>http://github.com/webjars/json3</url>
     <connection>scm:git:https://github.com/webjars/json3.git</connection>
     <developerConnection>scm:git:https://github.com/webjars/json3.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>json3-3.3.2</tag>
   </scm>
   
   <properties>
